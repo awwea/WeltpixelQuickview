@@ -1,0 +1,21 @@
+{
+    "name": "weltpixel/m2-weltpixel-quickview",
+    "description": "WeltPixel Quickview Module",
+    "authors": [
+      {
+      "name": "code",
+      "email": "magento@code.com"
+      }
+    ],
+    "require": {},
+    "type": "magento2-module",
+    "version": "1.0.9",  
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "WeltPixel\\Quickview\\": ""
+        }
+    }
+}
