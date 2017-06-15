@@ -7,9 +7,11 @@
       "email": "magento@code.com"
       }
     ],
-    "require": {},
+    "require": {
+        "weltpixel/backend": "100.*"
+    },
     "type": "magento2-module",
-    "version": "1.0.9",  
+    "version": "100.0.9",  
     "autoload": {
         "files": [
             "registration.php"
