@@ -8,7 +8,7 @@
       }
     ],
     "require": {
-        "weltpixel/backend": "*"
+        "weltpixel/backend": "100.*"
     },
     "type": "magento2-module",
     "version": "100.0.9",  
